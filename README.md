@@ -1,7 +1,5 @@
 ### Olá pessoas! sou a Stephanie Ester!
-- 🌱 Estudando JavaScript 
-- 😄 Pronouns:Ela/Dela 
-- ⚡ Fun fact: Amo One Piece
+- 🌱 Estudando JavaScript  😄 Pronouns:Ela/Dela ⚡ Fun fact: Amo One Piece
 
 <div>
   <a href="https://github.com/roberto-hofstetter">
