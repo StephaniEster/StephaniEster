@@ -14,4 +14,4 @@
        src="https://cdn.discordapp.com/attachments/950194004648140833/953299295531040849/6A92C0E4-169E-46FB-9127-5294AB41B0A1.gif"
 </div>
   
-  ![Snake animation](https://github.com/StephaniEster/StephaniEster/blob/output/github-contribution-grid-snake.svg)
+  
